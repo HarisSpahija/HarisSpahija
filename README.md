@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+<a class="twitter-timeline" href="https://twitter.com/spahija_haris?ref_src=twsrc%5Etfw">Tweets by spahija_haris</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--
 **HarisSpahija/HarisSpahija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
