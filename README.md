@@ -4,7 +4,8 @@
 
 ### I am a Developer, Designer and Tutor.
 
-## Need new energy in your team? Need a experienced developer? Contact me:
+## Need new energy in your team? 
+## Contact me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HarisSpahija)](https://github.com/HarisSpahija)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hspahija/)](https://www.linkedin.com/in/hspahija/)
