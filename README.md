@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# My name is Haris Spahija. 
+
+### I am a Developer, Designer and Tutor.
+
+## Need new energy in your team? Need a experienced developer? Contact me:
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HarisSpahija)](https://github.com/HarisSpahija)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hspahija/)](https://www.linkedin.com/in/hspahija/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/spahija_haris)](https://twitter.com/spahija_haris)
