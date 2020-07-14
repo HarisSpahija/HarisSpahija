@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<a class="twitter-timeline" href="https://twitter.com/spahija_haris?ref_src=twsrc%5Etfw">Tweets by spahija_haris</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HarisSpahija)](https://github.com/HarisSpahija)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hspahija/)](https://www.linkedin.com/in/hspahija/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/spahija_haris)](https://twitter.com/spahija_haris)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haris.spahija@gmail.com)](mailto:haris.spahija@gmail.com)
+[![HybrIT Badge](https://img.shields.io/badge/Working%20At-HybrIT-orange&link=https://hybrit.org)](https://hybrit.org)
 <!--
 **HarisSpahija/HarisSpahija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
