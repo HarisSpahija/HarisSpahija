@@ -1,4 +1,4 @@
-### Hi there 👋
+### Goedendag! 👋
 
 # My name is Haris Spahija. 
 
