@@ -10,7 +10,7 @@ My name is Haris Spahija. I am a developer from the Netherlands
 - 🤔 Always open for oppertunities
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I graduated as Game Developer. I worked on multiple games with a total of over 2.5 Million downloads. So if you ever need anything in UX or Game Development, let me know!
-- 📫 How to reach me: haris.spahija@gmail.com;
+- 📫 How to reach me: haris.spahija@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1IVknEH2c3rf0lYo64Yh_oWcK1ml1w-WH/view)
 
 ### Need new energy in your team? 
