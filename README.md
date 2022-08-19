@@ -4,8 +4,8 @@ My name is Haris Spahija. I am a developer from the Netherlands
 
 **Something about me**
 
-- 💪 Expert at ReactJS and GraphQL
-- 🌱 I'm currently learning more about Kubernetes and GraphQL
+- 💪 Expert at Vue and GraphQL
+- 🌱 I'm currently learning more about Azure and GraphQL
 - 👯 Working with my friends at De Nederlandse Loterij
 - 🤔 Always open for oppertunities
 - 💬 Ask me about anything, I am happy to help;
