@@ -6,7 +6,7 @@ My name is Haris Spahija. I am a developer from the Netherlands
 
 - 💪 Expert at Vue and GraphQL
 - 🌱 I'm currently learning more about Azure and GraphQL
-- 👯 Working with my friends at De Nederlandse Loterij
+- 👯 Working with the wizkids at W3S Digital
 - 🤔 Always open for oppertunities
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I graduated as Game Developer. I worked on multiple games with a total of over 2.5 Million downloads. So if you ever need anything in UX or Game Development, let me know!
